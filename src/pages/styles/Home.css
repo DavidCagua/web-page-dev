@@ -1,0 +1,34 @@
+.Home {
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    height: 100%;
+    background-image: url('../../images/fabian-grohs-oZ61KFUQsus-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Home section {
+    display: grid;
+    grid-column: 2;
+    justify-items: center;
+    height: 350px;
+    margin-top: 80px;
+}
+.Home-text {
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    color: white;
+    text-align: center;
+}
+.Home-button {
+    width: 110px;
+    height: 50px;
+    background:#fffcf6;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 50px;
+}

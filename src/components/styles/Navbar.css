@@ -1,0 +1,50 @@
+header {
+    width: 100%;
+    height: 140px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    font-family: 'Roboto Mono', monospace;
+}
+header .header-icons-container {
+    width: 100%;
+    height: 50px;
+    display: grid;
+    background-color:#20abe1;
+}
+header .header-icons-container .icons {
+    width: 200px;
+    height: auto;
+    display: flex;
+    justify-items: flex-end;
+    align-items: center;
+    justify-content: space-between;
+    justify-self: end;
+    margin-right: 50px;
+}
+header .icons img {
+
+    width: 30px;
+    height: auto;
+}
+.Navbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 90px;
+}
+
+.Navbar-logo-container img {
+    width: 80px;
+    margin-top: 10px;
+}
+.Navbar-profile-link-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.Navbar-profile-link-container span {
+    margin-right: 70px;
+    color: rgb(105, 50, 50);
+     
+}
