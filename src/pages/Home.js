@@ -10,7 +10,7 @@ export default class Home extends Component {
       return (
         <main className="Home">
           <section>
-      <h1 className="Home-text">{text}</h1>
+            <h1 className="Home-text">{text}</h1>
             <Link to="/" className="Home-button">Go for it!</Link>
           </section>
         </main>
