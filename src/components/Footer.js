@@ -11,7 +11,7 @@ class Footer extends React.Component {
             <div>
                 <img src={Mail_img} alt="Mail image"/>
                 <div className="contact-left">
-                    <Link to="/">Contact</Link>
+                    <Link to="/">Mail me</Link>
                     <p>contacto@davidcaguazango.com</p>
                     <p>+57 3177000722</p>
                 </div>
@@ -19,7 +19,7 @@ class Footer extends React.Component {
             <div>
                 <img src={Contact_img} alt="Contact image"/>
                 <div className="contact-right">
-                    <a href="/">Mail me</a>
+                    <a href="/">Contact</a>
                     <p>davidcaguazango.com</p>
                     <p>Skype: david.caguazango</p>
                 </div>

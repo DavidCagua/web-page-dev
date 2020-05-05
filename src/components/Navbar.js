@@ -20,12 +20,12 @@ class Navbar extends React.Component {
         </section> 
         <div className="Navbar">  
             <section className="Navbar-logo-container">
-            <Link to="../pages/Profile">
+            <Link to="/">
                 <img src={logo} alt="Logo" />
             </Link>
             </section>
             <section className="Navbar-profile-link-container">
-            <Link to="../pages/Profile">
+            <Link to="/Profile">
                 <span>About me</span>
             </Link>
             </section>
