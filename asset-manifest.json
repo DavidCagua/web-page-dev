@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d35c9eb1.chunk.css",
+    "main.js": "/static/js/main.d6cdd211.chunk.js",
+    "main.js.map": "/static/js/main.d6cdd211.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f0cd50dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f0cd50dd.js.map",
+    "static/js/2.29ebbc53.chunk.js": "/static/js/2.29ebbc53.chunk.js",
+    "static/js/2.29ebbc53.chunk.js.map": "/static/js/2.29ebbc53.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7aa21cc4842cfe83c0465b16022eb9a5.js": "/precache-manifest.7aa21cc4842cfe83c0465b16022eb9a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d35c9eb1.chunk.css.map": "/static/css/main.d35c9eb1.chunk.css.map",
+    "static/js/2.29ebbc53.chunk.js.LICENSE.txt": "/static/js/2.29ebbc53.chunk.js.LICENSE.txt",
+    "static/media/006-like.png": "/static/media/006-like.502a8acf.png",
+    "static/media/013-newsletter.png": "/static/media/013-newsletter.90aab6ac.png",
+    "static/media/ProfilePic.jpg": "/static/media/ProfilePic.c93aea0e.jpg",
+    "static/media/angular-icon.svg": "/static/media/angular-icon.abfc3b93.svg",
+    "static/media/css.svg": "/static/media/css.55338d57.svg",
+    "static/media/Home.css": "/static/media/fabian-grohs-oZ61KFUQsus-unsplash.0000a414.jpg",
+    "static/media/html.svg": "/static/media/html.94cf2a7a.svg",
+    "static/media/javascript.svg": "/static/media/javascript.e169ba29.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4b9d6707.svg",
+    "static/media/mysql.svg": "/static/media/mysql.b018dd4e.svg",
+    "static/media/node.svg": "/static/media/node.be2df796.svg",
+    "static/media/php.svg": "/static/media/php.d956cbbb.svg",
+    "static/media/social-media.svg": "/static/media/social-media.5911582b.svg",
+    "static/media/twitter.svg": "/static/media/twitter.815f723e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0cd50dd.js",
+    "static/js/2.29ebbc53.chunk.js",
+    "static/css/main.d35c9eb1.chunk.css",
+    "static/js/main.d6cdd211.chunk.js"
+  ]
+}
